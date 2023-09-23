@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/xL1rLtN/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "Start your coding journey with 'Introduction to C Programming.' Learn C basics and build your skills.",
+        "price": 15000,
+        "credit": 1
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/nM9hBM9/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "description": "Discover the essence of algorithms in our 'Introduction to Algorithms' course. Unlock problem-solving prowess today.",
+        "price": 25000,
+        "credit": 2
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/cXyFq7Q/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "Master C++ fundamentals for Data Structures and Algorithms in our 'Introduction to C++ for DSA' course.",
+        "price": 10000,
+        "credit": 10
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Hg1DxpS/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "description": "Build a strong foundation in 'Basic Data Structures' for effective problem-solving and software development.",
+        "price": 35000,
+        "credit": 8
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/0DHgmqc/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "description": "Get started with object-oriented programming in Python. Explore the basics in our 'Introduction to OOP Python' course.",
+        "price": 19000,
+        "credit": 5
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/5GfH717/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "description": "Learn the principles of Software Engineering in this comprehensive course. Elevate your programming skills.",
+        "price": 23000,
+        "credit": 2
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/hcfkMgH/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "description": "Discover AWS and Cloud Computing. Dive into the world of scalable, efficient, and cost-effective cloud solutions.",
+        "price": 35000,
+        "credit": 7
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/ynQjwvZ/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "description": "Master MySQL Database Management. Learn to create, manage, and optimize databases in our comprehensive course.",
+        "price": 19000,
+        "credit": 5
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/PTzsjvB/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "description": "Join 'Problem-Solving' course to sharpen your analytical thinking and creative skills, preparing for real-world challenges.",
+        "price": 23000,
+        "credit": 3
+    }
+]
