@@ -1,6 +1,6 @@
 # Course Roster React Template
 
-Live LInk : [https://silly-profiterole-27638f.netlify.app/] (https://silly-profiterole-27638f.netlify.app/)
+Live LInk : [Course Roster](https://silly-profiterole-27638f.netlify.app/)
 
 ### 3 Project features
 
