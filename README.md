@@ -1,12 +1,14 @@
 # Course Roster React Template
 
-### Questions 1 :  Add at least 3 Project features? 
+Live LInk : [https://silly-profiterole-27638f.netlify.app/] (https://silly-profiterole-27638f.netlify.app/)
+
+### 3 Project features
 
 - Can not add multiple courses in the cart, it will show a warning.
 - If Credit Hours are more than 20, more courses cannot be added. 
 - By default total Credit Hours are 20 and it's automatically deducted when adding a course to the cart.
 
-### Questions 2 : Discuss how you managed the state in your assignment project?
+### Questions 2 : Discuss how managed the state in this project
 
 "In this simple React application, I manage state primarily using the useState hook. Here's how I handle different aspects of state:
 
